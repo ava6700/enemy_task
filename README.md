@@ -56,6 +56,12 @@ Iterative Improvement: Ongoing refinement of the ranking algorithm to enhance se
 
 ### Testability
 Unit Testing: Rigorous unit tests cover various components of the search engine to ensure functionality and reliability.
+To run this unittest
+- Save the test files in the same directory as main.py.
+- Run python -m unittest from the command line.
+  ```
+  python -m unittest
+  ```
 
 # Usage
 ```
