@@ -108,3 +108,6 @@ python main.py pathToDirectoryContainingTextFiles
 # Ranking Score Outcome
 ![](assets/received_263334123210267.png)
 
+
+# Disclaimer
+This text search engine is provided as-is without any warranty. Users are encouraged to review and test the application according to their specific needs and use cases.
