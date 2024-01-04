@@ -105,6 +105,6 @@ python main.py pathToDirectoryContainingTextFiles
 
 ```
 
+# Ranking Score Outcome
+![](assets/received_263334123210267.png)
 
-
-User Acceptance Testing: Provides a user-friendly interface for testers to evaluate the search engine's usability and effectiveness.
