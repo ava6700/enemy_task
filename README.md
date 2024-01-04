@@ -1,1 +1,3 @@
-# enemy_task
+# Text Search Engine
+| Version Info | [![Python](https://img.shields.io/badge/python-v3.10.9-green)](https://www.python.org/downloads/release/python-3900/) [![Platform](https://img.shields.io/badge/Platforms-Ubuntu%2022.04.4%20LTS%2C%20win--64-orange)](https://releases.ubuntu.com/22.04/) [![anaconda](https://img.shields.io/badge/anaconda-v22.9.0-blue)](https://anaconda.org/anaconda/plotly/files?version=22.9.0) |
+| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
