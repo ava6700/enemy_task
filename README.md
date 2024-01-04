@@ -82,7 +82,7 @@ Input search terms via the command line interface.
 Obtain the top 10 filenames ranked by relevance to the search query.
 
 ## Quickstart:
-Clone the repository and set up the env.
+1. Clone the repository and set up the env.
 ```
 mkdir venv
 conda create -n venv python=3.10.9
@@ -91,6 +91,17 @@ python3.10.9 -m venv ./venv
 source ./venv/bin/activate
 python3 -m pip install --upgrade pip
 pip install --no-cache-dir -r requirements.txt
+
+```
+
+
+2. Then activate your venv
+```
+ conda activate venv
+```
+3. Run the file
+```
+python main.py pathToDirectoryContainingTextFiles
 
 ```
 
